@@ -7,6 +7,6 @@
 * For analysing the result I used CVIP tools. You acn find it on https://cviptools.ece.siue.edu/  
 
  # GUI Interface
- <img src="Screenshot(71).png" > </img>
+ <img src="Screenshot(71).png" > 
 
 # Have fun...
