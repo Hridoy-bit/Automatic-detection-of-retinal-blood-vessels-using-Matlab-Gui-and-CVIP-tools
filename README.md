@@ -7,6 +7,6 @@
 * For analysing the result I used CVIP tools. You acn find it on https://cviptools.ece.siue.edu/  
 
  # GUI Interface
- <img src="Screenshot(71).png" > 
+ ![Screenshot (72)](https://user-images.githubusercontent.com/60895200/90990414-dae3ab80-e566-11ea-8986-a5cdb535c8eb.png)
 
 # Have fun...
