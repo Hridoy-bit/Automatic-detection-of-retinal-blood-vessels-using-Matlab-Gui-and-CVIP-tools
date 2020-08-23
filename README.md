@@ -8,5 +8,7 @@
 
  # GUI Interface
  ![Screenshot (72)](https://user-images.githubusercontent.com/60895200/90990414-dae3ab80-e566-11ea-8986-a5cdb535c8eb.png)
+ # Output Result
+ ![Screenshot (81)](https://user-images.githubusercontent.com/60895200/90990432-fb136a80-e566-11ea-8a95-d8441867eaf5.png)
 
 # Have fun...
